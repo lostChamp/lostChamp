@@ -15,8 +15,6 @@
 
 🧠 I'm currently learning NestJS
 
-🤔 I'm looking for help with...
-
 😄 Pronouns: Monkey :D
 
 ⚡️ Fun fact: I'm guitar player
