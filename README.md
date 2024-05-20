@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Konstantin Kondyurin</h1>
-<h3 align="center">I'm JS/TS backend developer</h3>
+<h3 align="center">I'm JS/TS and PHP/YII2 fullstack developer</h3>
 
 <p align="left">
 </p>
