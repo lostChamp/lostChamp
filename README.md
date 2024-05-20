@@ -11,9 +11,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lostChamp&theme=tokyonight)
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on kinopoisk-snath
-
-🧠 I'm currently learning NestJS
+👩‍💻 I'm currently working in RailShip Service
 
 😄 Pronouns: Monkey :D
 
